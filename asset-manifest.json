@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/alex-bul/alex-bul.github.io/static/js/main.11381dd8.chunk.js",
+    "main.js.map": "/alex-bul/alex-bul.github.io/static/js/main.11381dd8.chunk.js.map",
+    "runtime-main.js": "/alex-bul/alex-bul.github.io/static/js/runtime-main.663627b5.js",
+    "runtime-main.js.map": "/alex-bul/alex-bul.github.io/static/js/runtime-main.663627b5.js.map",
+    "static/css/2.733ba2d0.chunk.css": "/alex-bul/alex-bul.github.io/static/css/2.733ba2d0.chunk.css",
+    "static/js/2.a415604c.chunk.js": "/alex-bul/alex-bul.github.io/static/js/2.a415604c.chunk.js",
+    "static/js/2.a415604c.chunk.js.map": "/alex-bul/alex-bul.github.io/static/js/2.a415604c.chunk.js.map",
+    "index.html": "/alex-bul/alex-bul.github.io/index.html",
+    "precache-manifest.e8c553f1df87d5b15a4f1a3cadd3079a.js": "/alex-bul/alex-bul.github.io/precache-manifest.e8c553f1df87d5b15a4f1a3cadd3079a.js",
+    "service-worker.js": "/alex-bul/alex-bul.github.io/service-worker.js",
+    "static/css/2.733ba2d0.chunk.css.map": "/alex-bul/alex-bul.github.io/static/css/2.733ba2d0.chunk.css.map",
+    "static/js/2.a415604c.chunk.js.LICENSE.txt": "/alex-bul/alex-bul.github.io/static/js/2.a415604c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.663627b5.js",
+    "static/css/2.733ba2d0.chunk.css",
+    "static/js/2.a415604c.chunk.js",
+    "static/js/main.11381dd8.chunk.js"
+  ]
+}
