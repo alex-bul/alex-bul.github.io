@@ -1,0 +1,29 @@
+.cases{
+	color: red;
+}
+
+.deaths{
+	color: grey;
+}
+
+.recovered{
+	color: #01A9DB;
+}
+
+.description_bottom{
+	padding-left: 20px;
+	padding-right:20px;
+	margin-bottom: 10px
+	color: grey;
+}
+
+.par{
+	color: #c75b5b;
+	padding-left: 20px;
+	margin-bottom: 5px;
+	margin-top: 20px;
+}
+
+li{
+	margin-bottom: 5px;
+}
